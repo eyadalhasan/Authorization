@@ -1,0 +1,39 @@
+.form {
+    background-color: #38015c;
+    width: 250px;
+  
+    margin-top: 5vh;
+    border-radius: 4px;
+    margin: auto;
+    margin-top: 5vh;
+    color: white;
+    align-items: center;
+    text-align: center;
+    padding:8px 3px
+
+}
+
+.form input {
+    width: 85%;
+    background-color: #f1e1fc;
+    border-radius: 3px;
+    
+    
+}
+
+.form button {
+    background: #9f5ccb;
+    width: 40%;
+   padding: 6px 0;
+    border: 0px;
+    cursor: pointer;
+    color: white;
+    border-radius: 3px;
+  
+}
+
+.form p {
+    color: #9f5ccb;
+    font-weight: bolder;
+    cursor: pointer;
+}

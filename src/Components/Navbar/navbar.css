@@ -1,0 +1,31 @@
+
+.Navbar{
+    background-color: #38015c;
+    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;   
+}
+.Navbar div{
+    
+    margin:0px 5%  0 5%;
+    color:white;
+    text-decoration: none;
+}
+
+.Navbar p{
+cursor: pointer;
+
+}
+.Navbar button {
+    color:white
+}
+
+li {
+    text-decoration: none;
+    float:left;
+    margin: 20px;
+    cursor: pointer;
+    color:white;
+    list-style-type: none;  
+}
